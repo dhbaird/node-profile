@@ -4,6 +4,5 @@
   "version": "0.0.10",
   "author" : "Mathias Pettersson <mape@mape.me>",
   "bin": { "nodeprofile": "./bin/nodeprofile" },
-  "engines": { "node": ">= 0.2.0" },
-  "scripts" : { "preinstall" : "./scripts/preinstall.sh" }
+  "engines": { "node": ">= 0.2.0" }
 }
